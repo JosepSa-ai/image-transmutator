@@ -1,0 +1,17 @@
+# Virtual environments
+ASCII/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated output
+output.txt
+output_color.txt
+
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
