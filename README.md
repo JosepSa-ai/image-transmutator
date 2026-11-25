@@ -37,8 +37,8 @@ Turn any image into ASCII art right in your terminal, in plain text or in full c
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/JosepSa-ai/image-transmutator.git
+   cd image-transmutator
    ```
 
 2. **Create a virtual environment**
